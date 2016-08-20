@@ -1,2 +1,2 @@
 # Python
-Python utilities to simplify stuff 
+Python utilities to simplify stuff.
